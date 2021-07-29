@@ -1,0 +1,23 @@
+h1 {
+  font-size: 3rem;
+  text-align: center;
+}
+form {
+  padding-top: 4rem;
+  text-align: center;
+}
+
+.button {
+  background-color: white;
+  color: black;
+  border: 2px solid #4caf50;
+  border-radius: 20px;
+  font-size: 2rem;
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  font-size: 2.5rem;
+  background-color: #4caf50;
+  color: white;
+}
